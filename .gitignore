@@ -19,7 +19,7 @@ logs
 
 
 # pycharm:
-*.idea
+*.idea/
 
 
 # project
